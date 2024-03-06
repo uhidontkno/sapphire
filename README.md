@@ -6,7 +6,9 @@ star if this interesting
 <h1 align="center">Sapphire</h1>
 <h3 align="center">The BEST i-Ready hack.</h3>
 <p align="center">
-developers not disclosed
+developers not disclosed <br>
+issues disabled, use the official discord
+I DID NOT MAKE SAPPHIRE.
 </p>
 <h2 align="center">Sapphire Support Discord: https://discord.gg/cd9Yd887rw</h2>
 <h3 align="center">How to install: https://shorturl.at/mqIO5</h3>
