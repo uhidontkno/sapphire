@@ -6,7 +6,7 @@ star if this interesting
 <h1 align="center">Sapphire</h1>
 <h3 align="center">The BEST i-Ready hack.</h3>
 <p align="center">
-developers not disclosed <br>
+devs: fries (ong ong)<br>
 issues disabled, use the official discord
 I DID NOT MAKE SAPPHIRE.
 </p>
