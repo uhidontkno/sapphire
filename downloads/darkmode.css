@@ -1,0 +1,160 @@
+/* Guys imma skid myself and add iready dark mode to sapphire!! */
+
+@-moz-document domain("i-ready.com") {
+/* fonts */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+* {
+    font-family: "Inter", "Roboto", sans-serif;
+}
+
+/* body stuff */
+:root {
+    --cauliflower-color-white: #222 !important;
+    --cauliflower-color-black: #fff;
+    --ifabric-color-white: #000;
+}
+
+body,
+html {
+    background-color: #000;
+    color: #ddd;
+}
+.node_modules--cainc-cauliflower-src-components-card-___Card__card-body {
+    background-color: #000;
+}
+.e15psnz1 {
+    background-color: #111;
+}
+
+/* texts & buttons */
+
+#lesson-splash-continue-button-button {background:rgb(71, 234, 109); border-radius:939392px;}
+#lesson-splash-continue-button-button:hover {background:rgb(41,194,69)}
+
+h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6 {color:#eee;}
+.css-1kh7anh-createComponent-withSubjectPickerStyles-HEADER_9 .h1 {color:#eee;}
+.css-mkz9o1-gridTemplate-ButtonLayoutCss {color:#bbb;font-weight:400;}
+#coin-amount {
+    color: #eee;
+    font-weight: 600;
+    font-family: "Inter", "Roboto", sans-serif;
+}
+.css-asd1kc-staticStyles-createComponent-StyledButton-ONACTIVEFOCUS-ONFOCUS-OUTLINESTYLE-SUBJECT_BUTTON_STYLE.active {
+    background-color: #2f2f6f;
+}
+.btn-primary {
+    background-color: #222;
+    color: white;
+}
+.css-1pu3d71-Bubble {
+    background-color: #00001f;
+}
+.btn {
+    background-color: #000;
+}
+.css-1so3vii-createComponent-ClickableCard-ONACTIVEFOCUS-ONFOCUS-OUTLINESTYLE-OUTLINESTYLE_CARD {
+    background-color: #007396;
+    color: white;
+}
+.css-1eukr4k-FooterIconText {
+    color: #cce;
+}
+.css-74pblz-FooterIconText {
+    color: #99a;
+}
+div[type="stats"],
+div[type="streak"] {
+    background-color: #0f0f0f;
+    color: white;
+}
+#streakCountId,
+.css-10v0m3k-PreviousStreakBox {
+    background-color: #222;
+}
+.css-i6btii-PreviousStreakLabel {
+    color: #ccc;
+}
+.e1fdt38j0 {
+    background-color: #000;
+}
+.css-4r6zpd-PageHeader {
+    background-color: #2f2f6f;
+}
+
+/* fixes & improvements */
+#continue-button-button,#btn-footer-MY_PROGRESS-button,#btn-footer-TO_DO-button {background:rgb(71, 234, 109)}
+.css-1xyyo8g-PreviousStreakBox {background:#222;}
+.css-3ls0qn-SubheadingDesc {color:#999;}
+.css-thfwq5-Subheading {color:#ccc;}
+rect[fill="#eeeeee"] {fill:#444;}
+*[fill="#ffffff"], *[fill="white"] {fill:#111;}
+path[fill="#505050"] {fill:#ccc !important;}
+*[opacity="0.15"] {opacity:0.4;}
+.css-xaul9o-gridTemplate-ButtonLayoutCss {
+    color: white;
+}
+.css-xaul9o-gridTemplate-ButtonLayoutCss svg {
+    fill: white !important;
+    color: white;
+}
+svg *[fill="#505050"] {
+    fill: white;
+}
+.active svg *[fill="#505050"] {
+    fill: black;
+}
+.btn {
+    border-radius: 0;
+}
+.css-1vpki9y-Typography .enj526p0 {
+    color: #4c94fc;
+}
+#background-image {
+    filter: brightness(0.42) blur(4px);
+    background: #000;
+}
+img {
+    border-radius: 16px;
+    filter: brightness(0.75)
+}
+img:hover {
+    filter: brightness(0.9)
+}
+.bg-success img {
+    border-radius: 0;
+}
+
+/* lesson completed */
+.css-179uhv7-Layout-CompletedWorkTableHeader, .css-am03px-HighlightableRow {background:#0f0f0f;color:#eee;}
+.css-1v0qkg6-ActivityDomain {color:#eee;}
+.css-1xuql0d-ActivityTitle {color:#999;}
+.css-1ar14rb-MyProgressGrayCheck path {stroke:rgb(4, 137, 65)}
+.css-1bg6ijh-DiagOutcome {color:#eee;}
+.css-1ducm02-CompletionDate {color:#aaa;}
+.css-e4ln7q-SelectTrigger, div[role="menuitem"] {background:#000 !important;}
+
+/* games */
+.css-mh682m-createComponent-GameCard {background:#000;}
+
+/* lesson */
+.baseDialog {background:#000;}
+p.modalBody {color:#eee;}
+.closeModalImage {color:#fff;}
+#lesson,.header__title,#bottom-bar-container,.ql-editor,.cover-audio-button,.dialog-box,.lessonModalOverlay.overlay.bk-overlay .dialog-box,.close,#passage {background:#111;color:#ccc;}
+.activity-void {background:#222;}
+.rc-stem.postit-note.rc3-5::before {background:#9c927c}
+#go-t2-s1 .slider-panel.activity {background:#0d234d;}
+#go-t2-s1 .drawer-panel-container.activity {background:#223f63;}
+span.text {color:#eee;}
+.rc-stem.postit-note.rc3-5::after {display:none;}
+
+/* login page */
+#loginHeader {background-color:#000; }
+.css-17b4a38-Centered-HORIZONTAL-VERTICAL-WRAPPER-LoginCardWrapper, .css-1i9ug6f-PADDING, .css-5uqngt-Centered-HORIZONTAL-VERTICAL-WRAPPER-LoginCardWrapper, .css-1i9ug6f-PADDING {background:#2f2f5f}
+.css-1dfhar7-CARD_HEADER, .css-1jg2fgv-CardHeader {background:#111;}
+path[fill="#231f21"] {fill:#fff;}
+.css-wtd3is-CARD_BODY,.css-12w87xd-Centered-HORIZONTAL-BODY_BACKGROUND, .css-22aqxu-SECTION-TEACHER_SECTION,.css-184088g-SECTION-STUDENT_SECTION {background:#222;color:#bbb !important;}
+label, .css-d9zduq-TEXT_8-TEXT {color:#bbb !important;}
+input {font-family:monospace; background-color:#333 !important; color:white !important; }
+footer, .css-a9y1ow-Description-HEADER_3, .css-3te9ln-FinePrint-TEXT_4 .ey3citj0 {background:#0f0f0f !important; color:#bbb !important;}
+}
