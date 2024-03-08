@@ -1,7 +1,8 @@
 <p align="center">
 i did not make Sapphire. All credits go to their respective owners, yadda yadda yadda. <br>
-sapphire is also not affliated with Nullify in any way. similar gui and such is simply a coincidence.
-star if this interesting
+sapphire is also not affliated with Nullify in any way. similar gui and such is simply a coincidence. <br>
+star if this interesting <br>
+extension removed !
 </p>
 <h1 align="center">Sapphire</h1>
 <h3 align="center">The BEST i-Ready hack.</h3>
